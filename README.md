@@ -1,16 +1,6 @@
 # weatherly
 
-A new Flutter project.
+![weatherly-1](https://github.com/ephraimphrase/SurgeWeatherly-flutter/assets/87427477/058186fd-09b6-442d-a2fb-b35f7d961000)
+![weatherly](https://github.com/ephraimphrase/SurgeWeatherly-flutter/assets/87427477/579c076c-64c6-4ec6-92e5-e45d6c586d61)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
